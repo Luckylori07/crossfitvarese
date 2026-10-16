@@ -1,0 +1,244 @@
+{
+  "_nota": "Orario base trascritto dall'immagine pubblicata su crossfitvarese.com/tariffe-orari.html (edizione 'da Settembre 2023'). Non è stato possibile verificare che sia ancora in vigore: confermare con il titolare prima della pubblicazione.",
+  "edizione": "Settembre 2023",
+  "verificato_oggi": false,
+  "avviso": "Orario di riferimento pubblicato dal box (edizione settembre 2023). Prima di venire, conferma giorni e orari con il box.",
+  "tipi": {
+    "class": "Class",
+    "individual": "Individual",
+    "onramp": "On Ramp",
+    "clinic": "Clinic (Extra)"
+  },
+  "colonne": [
+    "10:30",
+    "12:30",
+    "15:30",
+    "17:30",
+    "18:30",
+    "19:30"
+  ],
+  "giorni": [
+    {
+      "giorno": "Lunedì",
+      "fasce": [
+        {
+          "inizio": "10:30",
+          "fine": "11:30",
+          "tipi": [
+            "class"
+          ]
+        },
+        {
+          "inizio": "12:30",
+          "fine": "13:30",
+          "tipi": [
+            "class"
+          ]
+        },
+        {
+          "inizio": "17:30",
+          "fine": "18:30",
+          "tipi": [
+            "class",
+            "individual"
+          ]
+        },
+        {
+          "inizio": "18:30",
+          "fine": "19:30",
+          "tipi": [
+            "class",
+            "individual"
+          ]
+        },
+        {
+          "inizio": "19:30",
+          "fine": "20:30",
+          "tipi": [
+            "class",
+            "individual"
+          ]
+        }
+      ]
+    },
+    {
+      "giorno": "Martedì",
+      "fasce": [
+        {
+          "inizio": "12:30",
+          "fine": "13:30",
+          "tipi": [
+            "class"
+          ]
+        },
+        {
+          "inizio": "17:30",
+          "fine": "18:30",
+          "tipi": [
+            "class",
+            "individual"
+          ]
+        },
+        {
+          "inizio": "18:30",
+          "fine": "19:30",
+          "tipi": [
+            "class",
+            "individual"
+          ]
+        },
+        {
+          "inizio": "19:30",
+          "fine": "20:30",
+          "tipi": [
+            "class",
+            "onramp"
+          ]
+        }
+      ]
+    },
+    {
+      "giorno": "Mercoledì",
+      "fasce": [
+        {
+          "inizio": "10:30",
+          "fine": "11:30",
+          "tipi": [
+            "class"
+          ]
+        },
+        {
+          "inizio": "12:30",
+          "fine": "13:30",
+          "tipi": [
+            "class"
+          ]
+        },
+        {
+          "inizio": "17:30",
+          "fine": "18:30",
+          "tipi": [
+            "class",
+            "individual"
+          ]
+        },
+        {
+          "inizio": "18:30",
+          "fine": "19:30",
+          "tipi": [
+            "class",
+            "individual"
+          ]
+        },
+        {
+          "inizio": "19:30",
+          "fine": "20:30",
+          "tipi": [
+            "class",
+            "individual"
+          ]
+        }
+      ]
+    },
+    {
+      "giorno": "Giovedì",
+      "fasce": [
+        {
+          "inizio": "12:30",
+          "fine": "13:30",
+          "tipi": [
+            "class"
+          ]
+        },
+        {
+          "inizio": "17:30",
+          "fine": "18:30",
+          "tipi": [
+            "class",
+            "individual"
+          ]
+        },
+        {
+          "inizio": "18:30",
+          "fine": "19:30",
+          "tipi": [
+            "class",
+            "individual"
+          ]
+        },
+        {
+          "inizio": "19:30",
+          "fine": "20:30",
+          "tipi": [
+            "class",
+            "onramp"
+          ]
+        }
+      ]
+    },
+    {
+      "giorno": "Venerdì",
+      "fasce": [
+        {
+          "inizio": "10:30",
+          "fine": "11:30",
+          "tipi": [
+            "class"
+          ]
+        },
+        {
+          "inizio": "12:30",
+          "fine": "13:30",
+          "tipi": [
+            "class"
+          ]
+        },
+        {
+          "inizio": "17:30",
+          "fine": "18:30",
+          "tipi": [
+            "class",
+            "individual"
+          ]
+        },
+        {
+          "inizio": "18:30",
+          "fine": "19:30",
+          "tipi": [
+            "class",
+            "individual"
+          ]
+        },
+        {
+          "inizio": "19:30",
+          "fine": "20:30",
+          "tipi": [
+            "class",
+            "individual"
+          ]
+        }
+      ]
+    },
+    {
+      "giorno": "Sabato",
+      "fasce": [
+        {
+          "inizio": "10:30",
+          "fine": "11:30",
+          "tipi": [
+            "class"
+          ]
+        },
+        {
+          "inizio": "15:30",
+          "fine": "17:30",
+          "tipi": [
+            "clinic"
+          ]
+        }
+      ]
+    }
+  ],
+  "calendario_ufficiale": null,
+  "calendario_ufficiale_nota": "Il calendario prenotabile del sito attuale è un widget Fitogram (widget.fitogram.pro, tenant 'crossfit-varese') che in fase di verifica non risultava raggiungibile."
+}

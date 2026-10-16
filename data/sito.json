@@ -1,0 +1,13 @@
+{
+  "_nota": "Impostazioni globali del sito. Per pubblicare la versione definitiva: imposta demo=false e rilancia python3 tools/build.py (vedi README).",
+  "demo": true,
+  "dominio": "https://www.crossfitvarese.com",
+  "demo_url": null,
+  "_nota_demo_url": "URL dove la demo è pubblicata (es. https://xxx.netlify.app). Se impostato, serve per canonical e anteprime social della demo. Se vuoto, in demo canonical/og:url/og:image vengono omessi.",
+  "agenzia": {
+    "nome": "Tramontis",
+    "url": "https://tramontis.netlify.app/"
+  },
+  "banner_demo": "VERSIONE DEMO — Proposta di sito non ancora attiva. Per pubblicarla sul vostro dominio contatta",
+  "credito_footer": "Proposta di sito realizzata da"
+}

@@ -1,0 +1,78 @@
+{
+  "_nota": "Programmi effettivamente presenti su crossfitvarese.com/programmi.html. Ogni voce mostra solo i campi valorizzati.",
+  "introduzione": "Da lunedì a sabato abbiamo classi con l'allenamento del giorno in gruppo, adatte a ogni età e livello, oppure lezioni individuali con il Personal Trainer.",
+  "programmi": [
+    {
+      "id": "on-ramp",
+      "nome": "On Ramp",
+      "sintesi": "Il corso per iniziare, in piccolo gruppo.",
+      "descrizione": "Corso di inserimento per principianti per imparare i movimenti fondamentali in small group di 4 persone col Personal Trainer.",
+      "obiettivo": "Imparare i movimenti fondamentali del CrossFit.",
+      "destinatari": "Principianti.",
+      "prerequisiti": null,
+      "formato": "6 lezioni, massimo 4 persone per gruppo.",
+      "orari": "Martedì e giovedì sera, 19:30–20:30 (da orario pubblicato).",
+      "orari_link": "orari.html"
+    },
+    {
+      "id": "classe",
+      "nome": "Classe",
+      "sintesi": "L'allenamento del giorno, in gruppo.",
+      "descrizione": "Allenamento del giorno in classe, sempre diverso, adatto a tutti e personalizzato in base alle capacità di ogni partecipante.",
+      "obiettivo": "Migliorare prestazioni fisiche e forma, allenandosi in gruppo con un programma sempre diverso.",
+      "destinatari": "Persone di ogni età e livello.",
+      "prerequisiti": null,
+      "formato": "Classi da lunedì a sabato, della durata di un'ora.",
+      "orari": "Mattina, pausa pranzo e sera: consulta gli orari.",
+      "orari_link": "orari.html"
+    },
+    {
+      "id": "specialty",
+      "nome": "Specialty",
+      "sintesi": "Un focus su una specialità, tra teoria e pratica.",
+      "descrizione": "Classe con focus sulle specialità di Weightlifting, Gymnastics e Powerbuilding, teoria e pratica, adatta a tutti i livelli.",
+      "obiettivo": "Approfondire una specialità: Weightlifting, Gymnastics o Powerbuilding.",
+      "destinatari": "Adatta a tutti i livelli.",
+      "prerequisiti": null,
+      "formato": null,
+      "orari": "Giorni e orari non indicati nelle fonti pubblicate: chiedi al box.",
+      "orari_link": null
+    },
+    {
+      "id": "ego",
+      "nome": "Ego",
+      "sintesi": "Un programma individuale per lavorare su abilità specifiche.",
+      "descrizione": "Programma di allenamento individuale studiato per sviluppare abilità specifiche, da abbinare all'attività in classe.",
+      "obiettivo": "Sviluppare abilità specifiche.",
+      "destinatari": "Chi si allena in classe e vuole un lavoro in più.",
+      "prerequisiti": "Pensato per essere abbinato all'attività in classe.",
+      "formato": "Programma individuale.",
+      "orari": "Giorni e orari non indicati nelle fonti pubblicate: chiedi al box.",
+      "orari_link": null
+    },
+    {
+      "id": "personal",
+      "nome": "Personal",
+      "sintesi": "Lezioni individuali con il Personal Trainer.",
+      "descrizione": "Se hai esigenze particolari, puoi seguire un percorso di lezioni individuali con il Personal Trainer, al di fuori delle classi.",
+      "obiettivo": "Seguire un percorso individuale costruito sulle tue esigenze.",
+      "destinatari": "Chi ha esigenze particolari.",
+      "prerequisiti": null,
+      "formato": "Lezioni individuali nell'area riservata, da lunedì a venerdì.",
+      "orari": "Fasce serali indicate come «Individual» nell'orario pubblicato.",
+      "orari_link": "orari.html"
+    },
+    {
+      "id": "extra",
+      "nome": "Attività Extra",
+      "sintesi": "Clinic, workshop e bootcamp all'aperto.",
+      "descrizione": "Nel corso della stagione programmiamo attività tematiche in aggiunta alle classi: Clinic, Workshop e Bootcamp all'aperto.",
+      "obiettivo": "Approfondire temi specifici, in aggiunta alle classi.",
+      "destinatari": null,
+      "prerequisiti": null,
+      "formato": "Attività tematiche programmate nel corso della stagione.",
+      "orari": "Date e orari variano: nell'orario pubblicato compare una Clinic il sabato pomeriggio.",
+      "orari_link": "orari.html"
+    }
+  ]
+}

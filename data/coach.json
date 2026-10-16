@@ -1,0 +1,15 @@
+{
+  "_nota": "Il sito ufficiale non presenta coach o staff. L'unica persona identificabile da fonte ufficiale è il titolare, indicato sulla scheda affiliato di crossfit.com. Non esiste una pagina coach.html: aggiungerla solo quando nomi, ruoli, foto e qualifiche saranno confermati dal box.",
+  "pagina_dedicata": false,
+  "persone": [
+    {
+      "nome": "Riccardo Baldo",
+      "ruolo": "Titolare",
+      "foto": null,
+      "qualifiche": null,
+      "bio": null,
+      "fonte": "https://www.crossfit.com/gym/5630/crossfit-varese",
+      "da_confermare": true
+    }
+  ]
+}

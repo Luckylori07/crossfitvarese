@@ -1,0 +1,61 @@
+{
+  "_nota": "Formule tratte da crossfitvarese.com/tariffe-orari.html e /promozioni.html. I PREZZI NON SONO PUBBLICATI: le tariffe sul sito ufficiale sono datate 'da Settembre 2023' e non sono verificabili come attuali. Il campo 'prezzi_non_verificati_2023' è solo di riferimento interno e non viene mai mostrato nelle pagine.",
+  "mostra_prezzi": false,
+  "avviso": "Tariffe e promozioni vengono comunicate direttamente dal box: chiedi i prezzi aggiornati prima di iscriverti.",
+  "formule": [
+    {
+      "id": "open-6",
+      "nome": "Open 6 Classi",
+      "tipo": "Abbonamento",
+      "descrizione": "Abbonamento per 6 classi alla settimana, da lunedì a sabato, senza vincoli di giorni né di orari.",
+      "lezioni": "6 classi a settimana",
+      "limitazioni": null,
+      "prezzi_non_verificati_2023": {"1 mese": "120€", "3 mesi": "300€ (promo; 360€ listino)", "1 anno": "1.140€ (promo; 1.440€ listino)"}
+    },
+    {
+      "id": "open-3",
+      "nome": "Open 3 Classi",
+      "tipo": "Abbonamento",
+      "descrizione": "Abbonamento per 3 classi alla settimana, da lunedì a sabato, senza vincoli di giorni né di orari.",
+      "lezioni": "3 classi a settimana",
+      "limitazioni": null,
+      "prezzi_non_verificati_2023": {"1 mese": "90€", "3 mesi": "240€ (promo; 270€ listino)"}
+    },
+    {
+      "id": "under-21",
+      "nome": "Under 21",
+      "tipo": "Abbonamento",
+      "descrizione": "Abbonamento per 2 classi alla settimana, da lunedì a sabato.",
+      "lezioni": "2 classi a settimana",
+      "limitazioni": "Riservato ai giovani fino a 21 anni.",
+      "prezzi_non_verificati_2023": {"1 mese": "60€", "3 mesi": "160€ (promo; 180€ listino)"}
+    },
+    {
+      "id": "on-ramp",
+      "nome": "On Ramp",
+      "tipo": "Carnet",
+      "descrizione": "Corso di inserimento per principianti: 6 lezioni in small group, il martedì e il giovedì sera.",
+      "lezioni": "6 lezioni",
+      "limitazioni": "Massimo 4 persone per gruppo.",
+      "prezzi_non_verificati_2023": {"6 crediti": "90€ (promo; 150€ listino)"}
+    },
+    {
+      "id": "drop-in",
+      "nome": "Drop-in",
+      "tipo": "Ingressi",
+      "descrizione": "Ingresso a una classe, oppure carnet di 10 ingressi prepagati, validi per qualsiasi classe della settimana da lunedì a sabato.",
+      "lezioni": "1 classe oppure carnet da 10 ingressi",
+      "limitazioni": null,
+      "prezzi_non_verificati_2023": {"1 credito": "20€", "10 crediti": "170€ (promo; 200€ listino)"}
+    },
+    {
+      "id": "personal",
+      "nome": "Personal",
+      "tipo": "Lezioni individuali",
+      "descrizione": "Lezione individuale con il Personal Trainer, oppure carnet di 5 lezioni prepagate, da lunedì a venerdì nell'area riservata.",
+      "lezioni": "1 lezione oppure carnet da 5 lezioni",
+      "limitazioni": null,
+      "prezzi_non_verificati_2023": {"1 credito": "45€", "5 crediti": "180€ (promo; 225€ listino)"}
+    }
+  ]
+}

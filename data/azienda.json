@@ -1,0 +1,47 @@
+{
+  "_nota": "Dati aziendali. Ogni campo riporta la fonte; i campi 'null' o con 'da_confermare' vanno completati con il titolare.",
+  "nome": "CrossFit Varese",
+  "slogan_ufficiale": "Diventa con noi la versione migliore di te stesso!",
+  "anno_apertura": 2013,
+  "anno_apertura_fonte": "Scheda affiliato su crossfit.com/gym/5630: 'Since 2013 the first CrossFit box in the province of Varese'",
+  "indirizzo": {
+    "via": "Via I Maggio 10/A",
+    "cap": "21022",
+    "comune": "Azzate",
+    "provincia": "VA"
+  },
+  "coordinate": { "lat": 45.772227, "lng": 8.783085, "fonte": "Link Google Maps ufficiale del sito crossfitvarese.com" },
+  "telefono": "+39 320 4292731",
+  "telefono_tel": "+393204292731",
+  "email": "staff@crossfitvarese.com",
+  "whatsapp": {
+    "numero": "393204292731",
+    "messaggio_prova": "Ciao CrossFit Varese, vorrei prenotare la lezione di prova gratuita. Potete aiutarmi a scegliere giorno e orario?",
+    "messaggio_info": "Ciao CrossFit Varese, vorrei avere delle informazioni."
+  },
+  "maps_url": "https://www.google.com/maps/place/CrossFit+Varese/@45.772227,8.783085,17z/data=!4m2!3m1!1s0x47867ed5e2f24d37:0x5290f19eb0dc353b",
+  "social": {
+    "instagram": { "handle": "thisis_crossfitvarese", "url": "https://www.instagram.com/thisis_crossfitvarese/" },
+    "facebook": null
+  },
+  "partita_iva": "03966340121",
+  "partita_iva_fonte": "Footer del sito crossfitvarese.com",
+  "ragione_sociale": null,
+  "titolare": { "nome": "Riccardo Baldo", "ruolo": "Titolare", "fonte": "Scheda affiliato su crossfit.com/gym/5630 (da confermare con il box)" },
+  "accesso": {
+    "descrizione": "Nella zona industriale di Azzate, all'uscita Azzate-Buguggiate dell'autostrada Milano-Laghi, a circa 10 minuti dal centro.",
+    "parcheggio": "Di fronte al box c'è un ampio parcheggio gratuito per oltre 50 auto.",
+    "fonte": "Pagina Contatti di crossfitvarese.com"
+  },
+  "link_ufficiali": {
+    "crossfit_affiliato": "https://www.crossfit.com/gym/5630/crossfit-varese",
+    "crossfit_com": "https://www.crossfit.com/",
+    "sito_attuale_non_collegare": "https://www.crossfitvarese.com/"
+  },
+  "prenotazione": {
+    "sistema_esistente": "Fitogram (widget.fitogram.pro / share.fitogram.pro, tenant 'crossfit-varese')",
+    "stato_verifica": "NON integrabile: in fase di analisi (16/10/2026) tutti i domini fitogram.pro rispondono 'This domain is for sale'. Da verificare con il titolare.",
+    "canale_attivo": "WhatsApp con messaggio precompilato, telefono, email",
+    "url_prenotazione_esterna": null
+  }
+}

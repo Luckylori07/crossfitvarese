@@ -1,0 +1,3 @@
+# Versione DEMO: non indicizzare.
+User-agent: *
+Disallow: /
